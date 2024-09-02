@@ -12,7 +12,7 @@ Here we have project screenshot :
 ![screenshot](spring.png)
 
 Raw Image:-
-![screenshot](1.jpeg)
+![screenshot](1.jpg)
 
 # Features:
 Modern Design: Sleek and visually appealing design for a professional look.
